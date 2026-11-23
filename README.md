@@ -20,6 +20,7 @@ I'm a first-year Computer Engineering student at NMIMS MPSTME, almost finishing 
 
 ## Projects
 - **[mymalloc](https://github.com/Darsh-sudo-cloud/mymalloc)**: A custom implementation of `malloc`-style dynamic memory allocation in C, built to understand how memory is managed under the hood.
+- **[Bitsketch](https://github.com/Darsh-sudo-cloud/Bit-sketch)**: A pixel art editor that shows the bytes behind each drawing and a SHA-256 fingerprint of the canvas, built with HTML, CSS, and JavaScript.
 
 
 <p align="left">
