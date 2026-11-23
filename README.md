@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8b0000,000000&height=200&section=header" width="100%" />
 
 
-<h1 align="center">Hey, I'm Dash Vora 👋</h1>
+<h1 align="center">Hey, I'm Darsh Vora 👋</h1>
 <p align="center"><b>Computer Engineering Student</b></p>
 <p align="center">Computer Engineering @ NMIMS MPSTME, Mumbai</p>
 
