@@ -26,8 +26,15 @@ I'm a first-year Computer Engineering student at NMIMS MPSTME, almost finishing 
 | 🧮 | **mymalloc** | A memory allocator with splitting, coalescing, and a stress test. | C | [View →](https://github.com/Darsh-sudo-cloud/mymalloc) |
 | 🎨 | **Bit-sketch** | A pixel art editor that shows the bytes behind each drawing and a SHA-256 fingerprint of the canvas. | JS | [View →](https://github.com/Darsh-sudo-cloud/Bit-sketch) |
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/darsh-vora-4270a8432/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-  <a href="darshvora35@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## GitHub at a glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Darsh-sudo-cloud&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darsh-sudo-cloud&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+## Connect with me through
+
+<p align="center"><a href="https://www.linkedin.com/in/darsh-vora-4270a8432/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:darshvora35@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
