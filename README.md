@@ -18,10 +18,13 @@ I'm a first-year Computer Engineering student at NMIMS MPSTME, almost finishing 
 - Building small web pages with HTML and JavaScript
 - Basic cybersecurity concepts and how systems stay secure
 
-## Projects
-- **[mymalloc](https://github.com/Darsh-sudo-cloud/mymalloc)**: A custom implementation of `malloc`-style dynamic memory allocation in C, built to understand how memory is managed under the hood.
-- **[Bitsketch](https://github.com/Darsh-sudo-cloud/Bit-sketch)**: A pixel art editor that shows the bytes behind each drawing and a SHA-256 fingerprint of the canvas, built with HTML, CSS, and JavaScript.
+## 🧰 My Projects
 
+| | Project | What it does | Language | Link |
+|:-:|---|---|:-:|:-:|
+| 🧠 | **Stack-rewind** | A bytecode VM with a time-travel debugger. Step forward and backward through a program's history. | C + JS | [View →](https://github.com/Darsh-sudo-cloud/Stack-rewind) |
+| 🧮 | **mymalloc** | A memory allocator with splitting, coalescing, and a stress test. | C | [View →](https://github.com/Darsh-sudo-cloud/mymalloc) |
+| 🎨 | **Bit-sketch** | A pixel art editor that shows the bytes behind each drawing and a SHA-256 fingerprint of the canvas. | JS | [View →](https://github.com/Darsh-sudo-cloud/Bit-sketch) |
 
 <p align="left">
   <a href="https://www.linkedin.com/in/darsh-vora-4270a8432/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
