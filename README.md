@@ -18,6 +18,12 @@ I'm a first-year Computer Engineering student at NMIMS MPSTME, almost finishing 
 - Building small web pages with HTML and JavaScript
 - Basic cybersecurity concepts and how systems stay secure
 
+## Tech I work with
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,js,html,css" alt="C, JavaScript, HTML, CSS" />
+</p>
+
 ## 🧰 My Projects
 
 | | Project | What it does | Language | Link |
