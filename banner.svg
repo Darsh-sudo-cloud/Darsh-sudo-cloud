@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="60%" stop-color="#150204"/>
+      <stop offset="100%" stop-color="#3a0408"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2a0609"/>
+      <stop offset="100%" stop-color="#0a0102"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b0000" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e5484d"/>
+      <stop offset="100%" stop-color="#8b0000" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e5484d" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#e5484d" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- faint grid -->
+  <g stroke="#e5484d" stroke-opacity="0.07">
+    <line x1="0" y1="50" x2="1200" y2="50"/>
+    <line x1="0" y1="100" x2="1200" y2="100"/>
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="250" x2="1200" y2="250"/>
+    <line x1="200" y1="0" x2="200" y2="300"/>
+    <line x1="400" y1="0" x2="400" y2="300"/>
+    <line x1="600" y1="0" x2="600" y2="300"/>
+    <line x1="800" y1="0" x2="800" y2="300"/>
+    <line x1="1000" y1="0" x2="1000" y2="300"/>
+  </g>
+
+  <!-- chip glow -->
+  <circle cx="870" cy="150" r="170" fill="url(#glow)"/>
+
+  <!-- circuit traces -->
+  <g stroke="#b3121a" stroke-width="2" fill="none">
+    <path d="M630 150 H770"/>
+    <path d="M630 110 H700 V70 H770"/>
+    <path d="M630 190 H700 V230 H770"/>
+    <path d="M970 150 H1090"/>
+    <path d="M970 105 H1030 V60 H1130"/>
+    <path d="M970 195 H1030 V240 H1130"/>
+  </g>
+  <g fill="#e5484d">
+    <circle cx="770" cy="150" r="5"/>
+    <circle cx="770" cy="70" r="5"/>
+    <circle cx="770" cy="230" r="5"/>
+    <circle cx="1090" cy="150" r="5"/>
+    <circle cx="1130" cy="60" r="5"/>
+    <circle cx="1130" cy="240" r="5"/>
+  </g>
+
+  <!-- chip pins -->
+  <g stroke="#e5484d" stroke-width="3">
+    <line x1="815" y1="52" x2="815" y2="70"/>
+    <line x1="845" y1="52" x2="845" y2="70"/>
+    <line x1="875" y1="52" x2="875" y2="70"/>
+    <line x1="905" y1="52" x2="905" y2="70"/>
+    <line x1="935" y1="52" x2="935" y2="70"/>
+    <line x1="815" y1="230" x2="815" y2="248"/>
+    <line x1="845" y1="230" x2="845" y2="248"/>
+    <line x1="875" y1="230" x2="875" y2="248"/>
+    <line x1="905" y1="230" x2="905" y2="248"/>
+    <line x1="935" y1="230" x2="935" y2="248"/>
+    <line x1="772" y1="95" x2="790" y2="95"/>
+    <line x1="772" y1="122" x2="790" y2="122"/>
+    <line x1="772" y1="178" x2="790" y2="178"/>
+    <line x1="772" y1="205" x2="790" y2="205"/>
+    <line x1="950" y1="95" x2="968" y2="95"/>
+    <line x1="950" y1="122" x2="968" y2="122"/>
+    <line x1="950" y1="178" x2="968" y2="178"/>
+    <line x1="950" y1="205" x2="968" y2="205"/>
+  </g>
+
+  <!-- chip body -->
+  <rect x="790" y="70" width="160" height="160" rx="14" fill="url(#chip)" stroke="#e5484d" stroke-width="2"/>
+  <rect x="820" y="100" width="100" height="100" rx="6" fill="#1a0204" stroke="#b3121a" stroke-width="1.5"/>
+  <text x="870" y="162" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="38" font-weight="bold" fill="#e5484d">&lt;/&gt;</text>
+
+  <!-- terminal window -->
+  <rect x="90" y="50" width="540" height="200" rx="12" fill="#0b0b0e" stroke="#b3121a" stroke-width="1.5"/>
+  <path d="M90 62 a12 12 0 0 1 12 -12 h516 a12 12 0 0 1 12 12 v22 h-540 z" fill="#1d0a0d"/>
+  <circle cx="116" cy="67" r="6" fill="#e5484d"/>
+  <circle cx="138" cy="67" r="6" fill="#8b0000"/>
+  <circle cx="160" cy="67" r="6" fill="#4a0508"/>
+
+  <g font-family="Consolas, Menlo, monospace" font-size="18">
+    <text x="116" y="122" fill="#e5484d">$ ./mymalloc --stress</text>
+    <text x="116" y="152" fill="#c9d1d9">&gt; split · coalesce · free</text>
+    <text x="116" y="182" fill="#8b949e">&gt; sha256 : 9f2c4e...b71a</text>
+    <text x="116" y="212" fill="#e5484d">$</text>
+  </g>
+  <rect x="136" y="198" width="10" height="18" fill="#e5484d"/>
+
+  <!-- top and bottom edge lines -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#edge)"/>
+  <rect x="0" y="297" width="1200" height="3" fill="url(#edge)"/>
