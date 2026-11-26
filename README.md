@@ -33,12 +33,16 @@ so most of my projects rebuild things like memory allocators, virtual machines a
     <td>HTML, CSS, basic JavaScript</td>
   </tr>
   <tr>
+    <td align="center"><b>Design</b></td>
+    <td>Figma, Framer</td>
+  </tr>
+  <tr>
     <td align="center"><b>Tools</b></td>
-    <td>Git, GitHub, GitHub Pages</td>
+    <td>Git, GitHub, GitHub Pages, VS Code, Tinkercad</td>
   </tr>
   <tr>
     <td align="center"><b>Currently exploring</b></td>
-    <td>Cybersecurity fundamentals (through the <i>Programming for Everyone</i> course)</td>
+    <td>Cybersecurity fundamentals </td>
   </tr>
 </table>
 
@@ -47,14 +51,18 @@ so most of my projects rebuild things like memory allocators, virtual machines a
 <h2 align="center">🛠️ Tech I work with</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,html,css,git,github&theme=dark" alt="Tech stack" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/FRAMER-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer">
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/TINKERCAD-1B6FD0?style=for-the-badge&logo=autodesk&logoColor=white" alt="Tinkercad">
 </p>
 
 <h2 align="center">🌱 Currently learning</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java&theme=dark" alt="Python and Java" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
