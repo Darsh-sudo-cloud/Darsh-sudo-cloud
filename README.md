@@ -41,6 +41,10 @@ so most of my projects rebuild things like memory allocators, virtual machines a
     <td>Git, GitHub, GitHub Pages, VS Code, Tinkercad, Arduino</td>
   </tr>
   <tr>
+    <td align="center"><b>Documentation</b></td>
+    <td>Markdown (READMEs, project docs)</td>
+  </tr>
+  <tr>
     <td align="center"><b>Currently exploring</b></td>
     <td>Cybersecurity fundamentals</td>
   </tr>
@@ -61,6 +65,7 @@ so most of my projects rebuild things like memory allocators, virtual machines a
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/TINKERCAD-1B6FD0?style=for-the-badge&logo=autodesk&logoColor=white" alt="Tinkercad">
   <img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 </p>
 
 <h2 align="center">🌱 Currently learning</h2>
