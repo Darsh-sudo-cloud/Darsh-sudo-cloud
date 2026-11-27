@@ -38,11 +38,11 @@ so most of my projects rebuild things like memory allocators, virtual machines a
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
-    <td>Git, GitHub, GitHub Pages, VS Code, Tinkercad</td>
+    <td>Git, GitHub, GitHub Pages, VS Code, Tinkercad, Arduino</td>
   </tr>
   <tr>
     <td align="center"><b>Currently exploring</b></td>
-    <td>Cybersecurity fundamentals </td>
+    <td>Cybersecurity fundamentals</td>
   </tr>
 </table>
 
@@ -60,6 +60,7 @@ so most of my projects rebuild things like memory allocators, virtual machines a
   <img src="https://img.shields.io/badge/FRAMER-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer">
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/TINKERCAD-1B6FD0?style=for-the-badge&logo=autodesk&logoColor=white" alt="Tinkercad">
+  <img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
 </p>
 
 <h2 align="center">🌱 Currently learning</h2>
@@ -116,6 +117,18 @@ so most of my projects rebuild things like memory allocators, virtual machines a
       <a href="https://darsh-sudo-cloud.github.io/Bit-sketch/"><img src="https://img.shields.io/badge/Live_demo-E5484D?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌡️ <a href="https://github.com/Darsh-sudo-cloud/Thermalens">ThermaLens</a></h3>
+      <p>A temperature sensor dashboard that flags odd readings, predicts when it will get hot, and streams live in the browser.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
+      <br><br>
+      <a href="https://darsh-sudo-cloud.github.io/Thermalens/"><img src="https://img.shields.io/badge/Live_demo-E5484D?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
 <h3 align="center">Code links</h3>
@@ -124,7 +137,8 @@ so most of my projects rebuild things like memory allocators, virtual machines a
   🔐 Cipher Forge: <a href="https://github.com/Darsh-sudo-cloud/Cipher-forge">https://github.com/Darsh-sudo-cloud/Cipher-forge</a><br>
   🧠 Stack-rewind: <a href="https://github.com/Darsh-sudo-cloud/Stack-rewind">https://github.com/Darsh-sudo-cloud/Stack-rewind</a><br>
   🧮 mymalloc: <a href="https://github.com/Darsh-sudo-cloud/mymalloc">https://github.com/Darsh-sudo-cloud/mymalloc</a><br>
-  🎨 Bit-sketch: <a href="https://github.com/Darsh-sudo-cloud/Bit-sketch">https://github.com/Darsh-sudo-cloud/Bit-sketch</a>
+  🎨 Bit-sketch: <a href="https://github.com/Darsh-sudo-cloud/Bit-sketch">https://github.com/Darsh-sudo-cloud/Bit-sketch</a><br>
+  🌡️ ThermaLens: <a href="https://github.com/Darsh-sudo-cloud/Thermalens">https://github.com/Darsh-sudo-cloud/Thermalens</a>
 </p>
 
 <p align="center"><sub>Most of these are low-level on purpose: I'm learning by building the things other tools hide from you.</sub></p>
@@ -135,16 +149,7 @@ so most of my projects rebuild things like memory allocators, virtual machines a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Darsh-sudo-cloud&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e5484d&icon_color=e5484d&text_color=c9d1d9&ring_color=e5484d" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darsh-sudo-cloud&layout=compact&hide_border=true&bg_color=0d1117&title_color=e5484d&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Darsh-sudo-cloud&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e5484d&icon_color=e5484d&text_color=c9d1d9&ring_color=e5484d&v=2" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darsh-sudo-cloud&layout=compact&hide_border=true&bg_color=0d1117&title_color=e5484d&text_color=c9d1d9&v=2" />
 
 </div>
-
-<h2 align="center">📫 Connect with me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/darsh-vora-4270a8432/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:darshvora35@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d5a&height=120&section=footer" width="100%" />
