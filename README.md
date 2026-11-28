@@ -77,7 +77,7 @@ so most of my projects rebuild things like memory allocators, virtual machines a
   <img src="https://img.shields.io/badge/Linux-learning-181717?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-<p align="center"> 
+<p align="center">
   JavaScript: going deeper into the DOM, async code, and modules<br>
   Java: object-oriented design and unit tests<br>
   Linux: the command line, file permissions, and basic shell scripting
@@ -88,6 +88,26 @@ so most of my projects rebuild things like memory allocators, virtual machines a
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=My+Projects&fontSize=28&fontColor=ff4d5a&animation=fadeIn&fontAlignY=60" width="100%" alt="My Projects" />
 
 <table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Darsh-sudo-cloud/Cranberryjoy">Cranberryjoy</a></h3>
+      <p>A gradient studio for designing, testing, and exporting colour. Shape linear, radial, and conic gradients, check text contrast, and export CSS, Tailwind, or SVG.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black" />
+      <br><br>
+      <a href="https://darsh-sudo-cloud.github.io/Cranberryjoy/"><img src="https://img.shields.io/badge/Live_demo-E5484D?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Darsh-sudo-cloud/Thermalens">ThermaLens</a></h3>
+      <p>A temperature sensor dashboard that flags odd readings, predicts when it will get hot, and streams live in the browser.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
+      <br><br>
+      <a href="https://darsh-sudo-cloud.github.io/Thermalens/"><img src="https://img.shields.io/badge/Live_demo-E5484D?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Darsh-sudo-cloud/Cipher-forge">Cipher Forge</a></h3>
@@ -123,39 +143,32 @@ so most of my projects rebuild things like memory allocators, virtual machines a
       <a href="https://darsh-sudo-cloud.github.io/Bit-sketch/"><img src="https://img.shields.io/badge/Live_demo-E5484D?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Darsh-sudo-cloud/Thermalens">ThermaLens</a></h3>
-      <p>A temperature sensor dashboard that flags odd readings, predicts when it will get hot, and streams live in the browser.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
-      <br><br>
-      <a href="https://darsh-sudo-cloud.github.io/Thermalens/"><img src="https://img.shields.io/badge/Live_demo-E5484D?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-    </td>
-    <td width="50%"></td>
-  </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=Code+links&fontSize=28&fontColor=ff4d5a&animation=fadeIn&fontAlignY=60" width="100%" alt="Code links" />
 
 <p align="center">
+  Cranberryjoy: <a href="https://github.com/Darsh-sudo-cloud/Cranberryjoy">https://github.com/Darsh-sudo-cloud/Cranberryjoy</a><br>
+  ThermaLens: <a href="https://github.com/Darsh-sudo-cloud/Thermalens">https://github.com/Darsh-sudo-cloud/Thermalens</a><br>
   Cipher Forge: <a href="https://github.com/Darsh-sudo-cloud/Cipher-forge">https://github.com/Darsh-sudo-cloud/Cipher-forge</a><br>
   Stack-rewind: <a href="https://github.com/Darsh-sudo-cloud/Stack-rewind">https://github.com/Darsh-sudo-cloud/Stack-rewind</a><br>
   mymalloc: <a href="https://github.com/Darsh-sudo-cloud/mymalloc">https://github.com/Darsh-sudo-cloud/mymalloc</a><br>
-  Bit-sketch: <a href="https://github.com/Darsh-sudo-cloud/Bit-sketch">https://github.com/Darsh-sudo-cloud/Bit-sketch</a><br>
-  ThermaLens: <a href="https://github.com/Darsh-sudo-cloud/Thermalens">https://github.com/Darsh-sudo-cloud/Thermalens</a>
+  Bit-sketch: <a href="https://github.com/Darsh-sudo-cloud/Bit-sketch">https://github.com/Darsh-sudo-cloud/Bit-sketch</a>
 </p>
 
 <p align="center"><sub>Most of these are low-level on purpose: I'm learning by building the things other tools hide from you.</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff4d5a&height=2&section=header" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=GitHub+at+a+glance&fontSize=28&fontColor=ff4d5a&animation=fadeIn&fontAlignY=60" width="100%" alt="GitHub at a glance" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=Let's+connect&fontSize=28&fontColor=ff4d5a&animation=fadeIn&fontAlignY=60" width="100%" alt="Let's connect" />
 
-<div align="center">
+<p align="center">
+  <a href="mailto:darshvora35@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-E5484D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Darsh-sudo-cloud"><img src="https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Darsh-sudo-cloud&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e5484d&icon_color=e5484d&text_color=c9d1d9&ring_color=e5484d&v=2" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darsh-sudo-cloud&layout=compact&hide_border=true&bg_color=0d1117&title_color=e5484d&text_color=c9d1d9&v=2" />
+<p align="center">
+  Open to feedback on any of these projects, and to working on small builds with people who like the same problems.
+</p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff4d5a&height=2&section=header" width="100%" />
