@@ -156,8 +156,6 @@ so most of my projects rebuild things like memory allocators, virtual machines a
   Bit-sketch: <a href="https://github.com/Darsh-sudo-cloud/Bit-sketch">https://github.com/Darsh-sudo-cloud/Bit-sketch</a>
 </p>
 
-<p align="center"><sub>Most of these are low-level on purpose: I'm learning by building the things other tools hide from you.</sub></p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff4d5a&height=2&section=header" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=Let's+connect&fontSize=28&fontColor=ff4d5a&animation=fadeIn&fontAlignY=60" width="100%" alt="Let's connect" />
