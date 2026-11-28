@@ -11,7 +11,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff4d5a&height=2&section=header" width="100%" />
 
-<h2 align="center">👨‍💻 About me</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=About+me&fontSize=28&fontColor=ff4d5a&animation=fadeIn&fontAlignY=60" width="100%" alt="About me" />
 
 <p align="center">
 Hi, I'm <b>Darsh Vora</b>, a first-year Computer Engineering student at NMIMS MPSTME, almost finishing my first semester.<br>
@@ -21,7 +21,7 @@ so most of my projects rebuild things like memory allocators, virtual machines a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff4d5a&height=2&section=header" width="100%" />
 
-<h2 align="center">💻 What I work with</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=What+I+work+with&fontSize=28&fontColor=ff4d5a&animation=fadeIn&fontAlignY=60" width="100%" alt="What I work with" />
 
 <table align="center">
   <tr>
@@ -52,7 +52,7 @@ so most of my projects rebuild things like memory allocators, virtual machines a
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff4d5a&height=2&section=header" width="100%" />
 
-<h2 align="center">🛠️ Tech I work with</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=Skills+and+interests&fontSize=28&fontColor=ff4d5a&animation=fadeIn&fontAlignY=60" width="100%" alt="Skills and interests" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -68,28 +68,29 @@ so most of my projects rebuild things like memory allocators, virtual machines a
   <img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 </p>
 
-<h2 align="center">🌱 Currently learning</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=Learning+next&fontSize=28&fontColor=ff4d5a&animation=fadeIn&fontAlignY=60" width="100%" alt="Learning next" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-practicing-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-deepening-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-learning-E5484D?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-exploring-8b0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-learning-181717?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-<p align="center">
-  Python and Java. Java reads easily after C, but writing it takes more practice<br>
-  Writing cleaner, more structured code<br>
-  Basic cybersecurity concepts and how systems stay secure
+<p align="center"> 
+  JavaScript: going deeper into the DOM, async code, and modules<br>
+  Java: object-oriented design and unit tests<br>
+  Linux: the command line, file permissions, and basic shell scripting
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff4d5a&height=2&section=header" width="100%" />
 
-<h2 align="center">🧰 My Projects</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=My+Projects&fontSize=28&fontColor=ff4d5a&animation=fadeIn&fontAlignY=60" width="100%" alt="My Projects" />
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/Darsh-sudo-cloud/Cipher-forge">Cipher Forge</a></h3>
+      <h3><a href="https://github.com/Darsh-sudo-cloud/Cipher-forge">Cipher Forge</a></h3>
       <p>A password checker that attacks your passphrase the way a real attacker would, then tells you how it went.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black" />
@@ -98,7 +99,7 @@ so most of my projects rebuild things like memory allocators, virtual machines a
       <a href="https://darsh-sudo-cloud.github.io/Cipher-forge/"><img src="https://img.shields.io/badge/Live_demo-E5484D?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/Darsh-sudo-cloud/Stack-rewind">Stack-rewind</a></h3>
+      <h3><a href="https://github.com/Darsh-sudo-cloud/Stack-rewind">Stack-rewind</a></h3>
       <p>A bytecode VM with a time-travel debugger. Step forward and backward through a program's history.</p>
       <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" />
       <img src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black" />
@@ -108,14 +109,14 @@ so most of my projects rebuild things like memory allocators, virtual machines a
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧮 <a href="https://github.com/Darsh-sudo-cloud/mymalloc">mymalloc</a></h3>
+      <h3><a href="https://github.com/Darsh-sudo-cloud/mymalloc">mymalloc</a></h3>
       <p>A memory allocator with splitting, coalescing, and a stress test.</p>
       <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" />
       <br><br>
       <a href="https://darsh-sudo-cloud.github.io/mymalloc/"><img src="https://img.shields.io/badge/Live_demo-E5484D?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/Darsh-sudo-cloud/Bit-sketch">Bit-sketch</a></h3>
+      <h3><a href="https://github.com/Darsh-sudo-cloud/Bit-sketch">Bit-sketch</a></h3>
       <p>A pixel art editor that shows the bytes behind each drawing and a SHA-256 fingerprint of the canvas.</p>
       <img src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black" />
       <br><br>
@@ -124,7 +125,7 @@ so most of my projects rebuild things like memory allocators, virtual machines a
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌡️ <a href="https://github.com/Darsh-sudo-cloud/Thermalens">ThermaLens</a></h3>
+      <h3><a href="https://github.com/Darsh-sudo-cloud/Thermalens">ThermaLens</a></h3>
       <p>A temperature sensor dashboard that flags odd readings, predicts when it will get hot, and streams live in the browser.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black" />
@@ -136,21 +137,21 @@ so most of my projects rebuild things like memory allocators, virtual machines a
   </tr>
 </table>
 
-<h3 align="center">Code links</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=Code+links&fontSize=28&fontColor=ff4d5a&animation=fadeIn&fontAlignY=60" width="100%" alt="Code links" />
 
 <p align="center">
-  🔐 Cipher Forge: <a href="https://github.com/Darsh-sudo-cloud/Cipher-forge">https://github.com/Darsh-sudo-cloud/Cipher-forge</a><br>
-  🧠 Stack-rewind: <a href="https://github.com/Darsh-sudo-cloud/Stack-rewind">https://github.com/Darsh-sudo-cloud/Stack-rewind</a><br>
-  🧮 mymalloc: <a href="https://github.com/Darsh-sudo-cloud/mymalloc">https://github.com/Darsh-sudo-cloud/mymalloc</a><br>
-  🎨 Bit-sketch: <a href="https://github.com/Darsh-sudo-cloud/Bit-sketch">https://github.com/Darsh-sudo-cloud/Bit-sketch</a><br>
-  🌡️ ThermaLens: <a href="https://github.com/Darsh-sudo-cloud/Thermalens">https://github.com/Darsh-sudo-cloud/Thermalens</a>
+  Cipher Forge: <a href="https://github.com/Darsh-sudo-cloud/Cipher-forge">https://github.com/Darsh-sudo-cloud/Cipher-forge</a><br>
+  Stack-rewind: <a href="https://github.com/Darsh-sudo-cloud/Stack-rewind">https://github.com/Darsh-sudo-cloud/Stack-rewind</a><br>
+  mymalloc: <a href="https://github.com/Darsh-sudo-cloud/mymalloc">https://github.com/Darsh-sudo-cloud/mymalloc</a><br>
+  Bit-sketch: <a href="https://github.com/Darsh-sudo-cloud/Bit-sketch">https://github.com/Darsh-sudo-cloud/Bit-sketch</a><br>
+  ThermaLens: <a href="https://github.com/Darsh-sudo-cloud/Thermalens">https://github.com/Darsh-sudo-cloud/Thermalens</a>
 </p>
 
 <p align="center"><sub>Most of these are low-level on purpose: I'm learning by building the things other tools hide from you.</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff4d5a&height=2&section=header" width="100%" />
 
-<h2 align="center">📊 GitHub at a glance</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&text=GitHub+at+a+glance&fontSize=28&fontColor=ff4d5a&animation=fadeIn&fontAlignY=60" width="100%" alt="GitHub at a glance" />
 
 <div align="center">
 
